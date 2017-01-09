@@ -1,0 +1,3 @@
+[submodule "ar_game_client"]
+	path = ar_game_client
+	url = https://github.com/stereoboy/ar_game_client.git
